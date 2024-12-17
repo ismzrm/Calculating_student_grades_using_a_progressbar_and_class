@@ -1,0 +1,17 @@
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c_.Form1.resources
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.csproj.GenerateResource.cache
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.AssemblyInfoInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.AssemblyInfo.cs
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.csproj.CoreCompileInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\bin\Debug\net8.0-windows\yükleme_c#.exe
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\bin\Debug\net8.0-windows\yükleme_c#.deps.json
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\bin\Debug\net8.0-windows\yükleme_c#.runtimeconfig.json
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\bin\Debug\net8.0-windows\yükleme_c#.dll
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\bin\Debug\net8.0-windows\yükleme_c#.pdb
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.dll
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\refint\yükleme_c#.dll
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.pdb
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c#.genruntimeconfig.cache
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\ref\yükleme_c#.dll
+C:\Users\zorma\OneDrive\Masaüstü\yükleme_c#\yükleme_c#\obj\Debug\net8.0-windows\yükleme_c_.Form2.resources
